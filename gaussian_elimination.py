@@ -1,3 +1,4 @@
+"""https://en.wikipedia.org/wiki/Gaussian_elimination"""
 import numpy as np
 from copy import deepcopy
 
